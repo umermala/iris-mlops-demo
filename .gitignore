@@ -1,0 +1,4 @@
+# Ignore MLflow directories
+mlruns/
+mlartifacts/
+mlops_env/
